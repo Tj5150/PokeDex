@@ -14,7 +14,9 @@
 }
 
 body {
-  background-color: orange;
+  background: #ff5500;
+  background: linear-gradient(124deg, #ff5500 0%, #ffbe26 87%);
+  height: 100vh;
 }
 
 body img {
@@ -31,5 +33,6 @@ body img {
   font-family: mainPokeFont;
   color: whitesmoke;
   letter-spacing: 10px;
+  text-shadow: 5px -5px 2px red;
 }
 /*# sourceMappingURL=index.css.map */

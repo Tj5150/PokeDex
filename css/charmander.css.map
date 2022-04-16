@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/charmander.scss"
+    ],
+    "names": [],
+    "file": "charmander.css"
+}
