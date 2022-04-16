@@ -14,7 +14,9 @@
 }
 
 body{ 
-      background-color: orange;
+      background: rgb(255,85,0);
+      background: linear-gradient(124deg, rgba(255,85,0,1) 0%, rgba(255,190,38,1) 87%);
+      height: 100vh;
 }
 
 
@@ -25,5 +27,6 @@ body{
             font-family: mainPokeFont;
             color: whitesmoke;
             letter-spacing: 10px;
+            text-shadow: 5px -5px 2px red;
       }
 }
