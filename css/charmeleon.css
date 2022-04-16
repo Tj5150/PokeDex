@@ -1,1 +1,10 @@
-/* No CSS *//*# sourceMappingURL=charmeleon.css.map */
+@font-face {
+  font-family: mainPokeFont;
+  src: url("../fonts/Pokemon Solid.ttf");
+}
+
+@font-face {
+  font-family: subPokeFont;
+  src: url("../fonts/Pokemon Classic.ttf");
+}
+/*# sourceMappingURL=charmeleon.css.map */

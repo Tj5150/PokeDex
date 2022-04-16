@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,UAAU,CACN,WAAW,CAAE,YAAY,CACzB,GAAG,CAAE,iCAAkC,CAG3C,UAAU,CACN,WAAW,CAAE,WAAW,CACxB,GAAG,CAAE,mCAAoC",
     "sources": [
         "../scss/charmeleon.scss"
     ],

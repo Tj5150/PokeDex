@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,UAAU;EACN,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,iCAAkC;;;AAG3C,UAAU;EACN,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,mCAAoC",
     "sources": [
         "../scss/charizard.scss"
     ],
