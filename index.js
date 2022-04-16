@@ -219,11 +219,7 @@ charmander = JSON.parse(charmander)
 // // charmander name
 let charmanderName = (charmander.name).toUpperCase()
 document.getElementById("charmander").innerHTML = charmanderName
-<<<<<<< HEAD
-//charmander abilites
-=======
 // // charmander abilites
->>>>>>> acc0a5590d303f7b305b9c4bd5023f23a7fec077
 console.log(charmander)
 let charmanderAbility1 = charmander.abilities[0].name
 document.getElementById('ability1').innerHTML =  'Ability' + charmanderAbility1
