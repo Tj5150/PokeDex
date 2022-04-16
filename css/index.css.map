@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-{
-    "version": 3,
-    "mappings": "AAAA,UAAU;EACJ,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,iCAAkC;;;AAG7C,UAAU;EACJ,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,mCAAoC;;;AAG/C,AAAA,CAAC,CAAA;EACK,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;CACd;;AAED,AAAA,IAAI,CAAA;EACE,gBAAgB,EAAE,MAAM;CAC7B;;AAGD,AACM,OADC,CACD,EAAE,CAAC;EACG,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,YAAY;EACzB,KAAK,EAAE,UAAU;EACjB,cAAc,EAAE,IAAI;CACzB",
-    "sources": [
-        "../scss/index.scss"
-    ],
-    "names": [],
-    "file": "index.css"
-}
-=======
-{"version":3,"sourceRoot":"","sources":["../scss/index.scss"],"names":[],"mappings":"AAAA;EACM;EACA;;AAGN;EACM;EACA;;AAGN;EACM;EACA;;;AAGN;EACM;;;AAKA;EACM;EACA;EACA;EACA;EACA","file":"index.css"}
->>>>>>> 68b2f34998b9f25f5d7432baeb0e435785304f47
+{"version":3,"sourceRoot":"","sources":["../scss/index.scss"],"names":[],"mappings":"AAAA;EACM;EACA;;AAGN;EACM;EACA;;AAGN;EACM;EACA;;;AAGN;EACM;;AAEA;EACM;EACA;;;AAMN;EACM;EACA;EACA;EACA;EACA","file":"index.css"}
