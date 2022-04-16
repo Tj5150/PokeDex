@@ -19,12 +19,14 @@ body {
   height: 100vh;
 }
 
-body img {
-  position: relative;
-  width: 20rem;
-  height: 20rem;
-  left: 14rem;
-  margin: 5rem;
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container img {
+  height: 50vh;
+  width: 50vh;
 }
 
 .header h1 {
