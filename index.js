@@ -214,4 +214,11 @@ let charizard = `{
   "weight": 905
 }`
 
+// Charmander 
+charmander = JSON.parse(charmander)
+let charmanderName = charmander.name
+document.getElementById("charmander").innerHTML(charmanderName);
+
+
+//
 
