@@ -217,7 +217,7 @@ let charizard = `{
 // Charmander 
 charmander = JSON.parse(charmander)
 let charmanderName = charmander.name
-document.getElementById("charmander").innerHTML(charmanderName);
+document.getElementById("charmander").innerHTML = charmanderName
 
 
 //
