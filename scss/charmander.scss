@@ -39,11 +39,10 @@ body {
         color: #1E90FF;
         text-align: center;
         font-family: mainPokeFont;
-        font-size: 3.7rem;
+        font-size: 2.7rem;
         letter-spacing: 2px;
     }
-    .linkback{ 
-    }
+
     .back {
     
         width: 10rem;
@@ -58,5 +57,25 @@ body {
         position: relative;
         left: 45vw;
         top: 3vw;
+    }
+
+    #imageHolder{
+        height: 10rem;
+        width: 30rem;
+    }
+
+    #charcard{
+        height: 15rem;
+        width: 25rem;
+        border: 3px solid black;
+        border-radius: 20%;
+        position: absolute;
+        left: 2.5rem;
+        top: 4rem;
+        background-color: #1E90FF;
+    }
+
+    #fire{
+        border: 2px solid dodgerblue;
     }
 }

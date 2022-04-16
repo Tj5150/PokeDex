@@ -41,7 +41,7 @@ body #charmander {
   color: #1E90FF;
   text-align: center;
   font-family: mainPokeFont;
-  font-size: 3.7rem;
+  font-size: 2.7rem;
   letter-spacing: 2px;
 }
 
@@ -58,5 +58,25 @@ body .back {
   position: relative;
   left: 45vw;
   top: 3vw;
+}
+
+body #imageHolder {
+  height: 10rem;
+  width: 30rem;
+}
+
+body #charcard {
+  height: 15rem;
+  width: 25rem;
+  border: 3px solid black;
+  border-radius: 20%;
+  position: absolute;
+  left: 2.5rem;
+  top: 4rem;
+  background-color: #1E90FF;
+}
+
+body #fire {
+  border: 2px solid dodgerblue;
 }
 /*# sourceMappingURL=charmander.css.map */
