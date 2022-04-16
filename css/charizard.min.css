@@ -1,2 +1,2 @@
-@font-face{font-family:mainPokeFont;src:url("../fonts/Pokemon Solid.ttf")}@font-face{font-family:subPokeFont;src:url("../fonts/Pokemon Classic.ttf")}
+@font-face{font-family:mainPokeFont;src:url("../fonts/Pokemon Solid.ttf")}@font-face{font-family:subPokeFont;src:url("../fonts/Pokemon Classic.ttf")}*{margin:0;padding:0}*:visited{color:black}body .back{width:10rem;height:3rem;position:absolute;left:54rem;border:4px solid red;border-radius:10%;top:44rem;background-color:red;font-family:mainPokeFont;font-size:1.5rem;text-align:center}
 /*# sourceMappingURL=charizard.min.css.map */

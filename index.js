@@ -215,14 +215,15 @@ let charizard = `{
 }`
 
 // Charmander 
-// charmander = JSON.parse(charmander)
+charmander = JSON.parse(charmander)
 // // charmander name
-// let charmanderName = charmander.name
+let charmanderName = (charmander.name).toUpperCase()
 // document.getElementById("charmander").innerHTML = charmanderName
 // charmander abilites
 console.log(charmander)
-let charmanderAbility1 = charmander.ablities[0]
-console.log(charmanderAbility1)
+let charmanderAbility1 = charmander.abilities[0]
+document.getElementById('')
+
 
 // console.log(charmanderName)
 
