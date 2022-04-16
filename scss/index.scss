@@ -1,3 +1,13 @@
+@font-face {
+      font-family: mainPokeFont;
+      src: url("../fonts/Pokemon\ Solid.ttf");
+}
+
+@font-face {
+      font-family: subPokeFont;
+      src: url("../fonts/Pokemon\ Classic.ttf");
+}
+
 *{ 
       padding: 0;
       margin: 0;
@@ -10,6 +20,10 @@ body{
 
 .header{ 
       h1 { 
+            text-align: center;
             font-size: 5rem;
+            font-family: mainPokeFont;
+            color: yellow;
+            letter-spacing: 10px;
       }
 }
