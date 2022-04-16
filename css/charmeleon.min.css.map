@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/charmeleon.scss"
+    ],
+    "names": [],
+    "file": "charmeleon.min.css"
+}

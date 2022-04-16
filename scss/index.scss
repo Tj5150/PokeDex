@@ -19,6 +19,14 @@ body{
       height: 100vh;
 }
 
+.container {
+      display: flex;
+      justify-content: space-between;
+      img{ 
+            height: 50vh;
+            width: 50vh;
+      }
+}
 
 .header{ 
       h1 { 
